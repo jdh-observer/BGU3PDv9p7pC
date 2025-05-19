@@ -90,9 +90,9 @@ Introducing DBHR requires us first to consider Design-Based Research (DBR) witho
 <!-- #region jdh={"module": "object", "object": {"source": ["This table lays out the principles of Design Based Research (DBR) in an educational-research setting."], "type": "image"}} tags=["narrative", "table-1"] -->
 | DBR Principle (adapted from <cite data-cite="32868/EMN6PG6E"></cite>) | Practical Educational Research Outcome |
 | :-- | :-- |
-| **Theory-driven development of educational design and methods** | <ul><li>Situated in a real-world educational contexts<li>Focused on the design and testing of a significant intervention</ul> |
-| **Applied iterative theory developed with practitioners** | <ul><li>Testing of design and methods shapes revision of theory; Revised theory offers insight into design and methods revisions<li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration</ul> |
-| **Should have impact in both research and practice** | <ul><li>Develops research-driven design theory for use by other researchers<li>Provides guidance for adoption by other practitioners</ul> |
+| **Theory-driven development of educational design and methods** | Situated in a real-world educational contexts <br> Focused on the design and testing of a significant intervention |
+| **Applied iterative theory developed with practitioners** | Testing of design and methods shapes revision of theory; Revised theory offers insight into design and methods revisions<li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration |
+| **Should have impact in both research and practice** | Develops research-driven design theory for use by other researchers <br> Provides guidance for adoption by other practitioners|
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
@@ -190,8 +190,6 @@ In each of 6 rounds of redesign (table 7), we therefore addressed either a user-
 <!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["An overview of the theoretical and historiographic principles that underlie Net.Create design conjectures."], "type": "image"}} tags=["narrative", "table-6"] -->
-An overview of the theoretical and historiographic principles that underlie Net.Create design conjectures.
-
 | Net.Create Design Iteration | Design Need | Technical Implication | Historiographic Foundation |
 | :--| :--| :--| :--|
 | 0.02, 1, 1.1, 1.2 | simultaneous entry and visualization of *capta* |data that is gathered and contested rather than downloaded or received | support and encourage historiographic debate during the data-gathering phase and prior to a formal analysis phase. *Capta* offers an operating principle for focusing capture of information through debate. |
@@ -200,8 +198,6 @@ An overview of the theoretical and historiographic principles that underlie Net.
 <!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["A time-based and audience-based overview of Net.Create's DBHR-driven feature development."], "type": "image"}} tags=["narrative", "table-7"] -->
-A time-based and audience-based overview of Net.Create's DBHR-driven feature development.
-
 | Date | Version  | Primary feature focus                                       |Design/methods responsibilities  | User-audience testing   |
 |------|----------|------------------------------------------------------------|----------------------------------|----------------------------------|
 | 2015 | 0.01     | Network data entry with citations                          |Craig responsible for solo coding, UI feature design, testing/user-activity design | Mid-sized classroom (75-100 students) with Craig as sole tool-builder and researcher |
@@ -242,7 +238,7 @@ Students in the third unit of a Fall 2015 course on social and cultural reaction
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
-Students in the third unit of a Fall 2015 course on social and cultural reactions to outbreaks of bubonic plague taught by Craig were studying an outbreak of bubonic plague in Honolulu, HI. *Plague and Fire* <cite data-cite="32868/IRAIZC6T"></cite> contains a detailed account of a bubonic plague outbreak in Honolulu that began in late 1899, peaked in an out-of-control fire set by a white-settler-dominated board of health in downtown Honolulu in early 1900, and resulted in the quarantine and displacement of native Hawaiians, Chinese and Japanese immigrants in the year that followed. Students in previous version of the course struggled to identify and trace the interactions of the many figures involved in this outbreak and its aftermath. We hypothesized that assigning a small excerpt from *Plague and Fire* and asking students to take notes on their assigned excerpt in the context of a larger network dataset, would help focus students on a small digestible portion of the reading. A visualization that showed historical agents interacting in the monograph drawn from that data would allow students to explore historical significance in the monograph's narrative. That would, in turn, allow students to better understand who had agency in this plague outbreak, who didn't, and how plague affected different social, racial, and ethnic groups in Honolulu. Beyond the classroom context, this would also allow us to better understand how our tool would support (novice) historians in making sense of the multitude of relationships incorporated in a text such as this.
+Students in the third unit of a Fall 2015 course on social and cultural reactions to outbreaks of bubonic plague taught by Craig were studying an outbreak of bubonic plague in Honolulu, HI. *Plague and Fire* (<cite data-cite="32868/IRAIZC6T"></cite>) contains a detailed account of a bubonic plague outbreak in Honolulu that began in late 1899, peaked in an out-of-control fire set by a white-settler-dominated board of health in downtown Honolulu in early 1900, and resulted in the quarantine and displacement of native Hawaiians, Chinese and Japanese immigrants in the year that followed. Students in previous version of the course struggled to identify and trace the interactions of the many figures involved in this outbreak and its aftermath. We hypothesized that assigning a small excerpt from *Plague and Fire* and asking students to take notes on their assigned excerpt in the context of a larger network dataset, would help focus students on a small digestible portion of the reading. A visualization that showed historical agents interacting in the monograph drawn from that data would allow students to explore historical significance in the monograph's narrative. That would, in turn, allow students to better understand who had agency in this plague outbreak, who didn't, and how plague affected different social, racial, and ethnic groups in Honolulu. Beyond the classroom context, this would also allow us to better understand how our tool would support (novice) historians in making sense of the multitude of relationships incorporated in a text such as this.
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
