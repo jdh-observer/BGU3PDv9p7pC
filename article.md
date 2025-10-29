@@ -6,7 +6,7 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.17.1
+      jupytext_version: 1.18.1
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -20,12 +20,12 @@ jupyter:
 
 <!-- #region tags=["contributor"] -->
  ### Kalani Craig [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8909-0369)
- Department of History, College of Arts + Sciences Indiana University-Bloomington
+College of Liberal Arts & Sciences, University of Illinois Urbana-Champaign
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
  ### Joshua Danish [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5119-5897)
- Learning Sciences, School of Education, Indiana University-Bloomington
+Department of Curriculum & Instruction, College of Education, University of Illinois Urbana-Champaign
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
