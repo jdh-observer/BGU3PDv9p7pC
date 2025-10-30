@@ -147,7 +147,7 @@ DBR assumes that learning outcomes are the primary focal point for DBR analysis.
 
 ```python jdh={"module": "object", "object": {"source": ["This table articulates the research outcomes associated with DBHR principles in digital-history tool design."], "type": "image"}} tags=["narrative", "table-3", "data-table"]
 import pandas as pd
-from IPython.display import HTML
+from IPython.display import HTML, display
 
 # --- Define the columns ---
 columns = [
@@ -166,16 +166,20 @@ data = [
         "<ul><li>Small-scale testing to evaluate how tool/method design shapes historical inquiry and argument</li><li>Revised argument offers insight into design and methods revisions</li><li>Emphasizes mixed-methods approaches through proof-of-concept collaboration</li></ul>"
     ],
     [
-        "<strong>Should have impact in both argument-driven history and digital history</strong>",
+          "<strong>Should have impact in both argument-driven history and digital history</strong>",
         "<ul><li>Produces tools designed for and by other historians</li><li>Articulates methods that link tools to appropriate continuity-and-change questions</li><li>Contributes to historiography through change/continuity-over-time arguments</li></ul>"
     ]
 ]
 
 # --- Create the DataFrame ---
-df_dbhr = pd.DataFrame(data, columns=columns)
+df_dbr2 = pd.DataFrame(data, columns=columns)
 
-# --- Display the DataFrame as formatted HTML ---
-HTML(df_dbhr.to_html(escape=False, index=False))
+# --- Display the DataFrame with formatted HTML ---
+display(HTML(df_dbr2.to_html(escape=False, index=False)))
+
+# --- Caption below the table ---
+display(HTML('<p><em>Table 3.</em> This table articulates the research outcomes associated with DBHR principles in digital-history tool design.</p>'))
+
 ```
 
 ## Method-as-activity in DBHR: a Net.Create classroom-to-research DBHR pipeline
