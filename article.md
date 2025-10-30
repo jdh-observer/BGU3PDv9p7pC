@@ -145,13 +145,39 @@ DBR assumes that learning outcomes are the primary focal point for DBR analysis.
 | Impact in both research and practice |  | **Impact in both argument-driven history and digital history and use by historians in both subfields** |
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["This table articulates the research outcomes associated with DBHR principles in digital-history tool design."], "type": "image"}} tags=["narrative", "table-3"] -->
-| DB**H**R Principle | Practical Digital-History Design Research Outcome |
-| :-- | :-- |
-| **Historiography-driven development of tools and methods to use those tools in order to answer questions about change and continuity over time** | <ul><li>Situated in historiography<li>Focused on the gaps between historiographic need and existing design and method</ul> |
-| **Refine and iterate design & methods based on resulting historical argument and how that argument fits into existing historiography** | <ul><li>Small-scale testing to evaluate how tool/method design shape historical inquiry and argument<li>Revised argument offers insight into design and methods revisions<li>Emphasizes mixed-methods approaches through proof-of-concept collaboration</ul> |
-| **Should have impact in both argument-driven history and digital history** | <ul><li>Produces tools designed for and by other historians<li>Articulates methods that link tools to appropriate continuity-and-change questions<li>Contributes to historiography through change/continuity-over-time arguments</ul> |
-<!-- #endregion -->
+```python jdh={"module": "object", "object": {"source": ["This table articulates the research outcomes associated with DBHR principles in digital-history tool design."], "type": "image"}} tags=["narrative", "table-3", "data-table"]
+import pandas as pd
+from IPython.display import HTML
+
+# --- Define the columns ---
+columns = [
+    "DBHR Principle",
+    "Practical Digital-History Design Research Outcome"
+]
+
+# --- Define the data with proper <ul><li>…</li></ul> formatting ---
+data = [
+    [
+        "<strong>Historiography-driven development of tools and methods to use those tools in order to answer questions about change and continuity over time</strong>",
+        "<ul><li>Situated in historiography</li><li>Focused on the gaps between historiographic need and existing design and method</li></ul>"
+    ],
+    [
+        "<strong>Refine and iterate design & methods based on resulting historical argument and how that argument fits into existing historiography</strong>",
+        "<ul><li>Small-scale testing to evaluate how tool/method design shapes historical inquiry and argument</li><li>Revised argument offers insight into design and methods revisions</li><li>Emphasizes mixed-methods approaches through proof-of-concept collaboration</li></ul>"
+    ],
+    [
+        "<strong>Should have impact in both argument-driven history and digital history</strong>",
+        "<ul><li>Produces tools designed for and by other historians</li><li>Articulates methods that link tools to appropriate continuity-and-change questions</li><li>Contributes to historiography through change/continuity-over-time arguments</li></ul>"
+    ]
+]
+
+# --- Create the DataFrame ---
+df_dbhr = pd.DataFrame(data, columns=columns)
+
+# --- Display the DataFrame as formatted HTML ---
+HTML(df_dbhr.to_html(escape=False, index=False))
+
+```
 
 ## Method-as-activity in DBHR: a Net.Create classroom-to-research DBHR pipeline
 
