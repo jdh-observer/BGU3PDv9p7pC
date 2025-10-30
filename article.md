@@ -90,9 +90,9 @@ Introducing DBHR requires us first to consider Design-Based Research (DBR) witho
 <!-- #region jdh={"module": "object", "object": {"source": ["This table lays out the principles of Design Based Research (DBR) in an educational-research setting."], "type": "image"}} tags=["narrative", "table-1", "data-table"] -->
 | DBR Principle (adapted from <cite data-cite="32868/EMN6PG6E"></cite>) | Practical Educational Research Outcome |
 | :-- | :-- |
-| **Theory-driven development of educational design and methods** | Situated in a real-world educational contexts <br> Focused on the design and testing of a significant intervention |
-| **Applied iterative theory developed with practitioners** | Testing of design and methods shapes revision of theory; Revised theory offers insight into design and methods revisions<li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration |
-| **Should have impact in both research and practice** | Develops research-driven design theory for use by other researchers <br> Provides guidance for adoption by other practitioners|
+| **Theory-driven development of educational design and methods** | <ul><li>Situated in a real-world educational contexts</li><li>Focused on the design and testing of a significant intervention</li></ul> |
+| **Applied iterative theory developed with practitioners** | <ul><li>Testing of design and methods shapes revision of theory; Revised theory offers insight into design and methods revisions</li><li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration</li></ul> |
+| **Should have impact in both research and practice** | <ul><li>Develops research-driven design theory for use by other researchers</li><li>Provides guidance for adoption by other practitioners</li></ul> |
 <!-- #endregion -->
 
 <!-- #region tags=["narrative"] -->
