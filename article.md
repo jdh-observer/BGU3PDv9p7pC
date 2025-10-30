@@ -176,7 +176,6 @@ df_dbhr = pd.DataFrame(data, columns=columns)
 
 # --- Display the DataFrame as formatted HTML ---
 HTML(df_dbhr.to_html(escape=False, index=False))
-
 ```
 
 ## Method-as-activity in DBHR: a Net.Create classroom-to-research DBHR pipeline
