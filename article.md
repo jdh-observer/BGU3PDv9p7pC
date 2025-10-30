@@ -176,10 +176,6 @@ df_dbr2 = pd.DataFrame(data, columns=columns)
 
 # --- Display the DataFrame with formatted HTML ---
 display(HTML(df_dbr2.to_html(escape=False, index=False)))
-
-# --- Caption below the table ---
-display(HTML('<p><em>Table 3.</em> This table articulates the research outcomes associated with DBHR principles in digital-history tool design.</p>'))
-
 ```
 
 ## Method-as-activity in DBHR: a Net.Create classroom-to-research DBHR pipeline
