@@ -120,7 +120,7 @@ DBR assumes that learning outcomes are the primary focal point for DBR analysis.
 | Impact in both research and practice |  | **Impact in both argument-driven history and digital history and use by historians in both subfields** |
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["This table articulates the research outcomes associated with DBHR principles in digital-history tool design."], "type": "image"}} tags=["narrative", "table-3"] -->
+<!-- #region jdh={"module": "object", "object": {"source": ["This table articulates the research outcomes associated with DBHR principles in digital-history tool design."], "type": "image"}} tags=["narrative", "table-3", "data-table"] -->
 | DB**H**R Principle | Practical Digital-History Design Research Outcome |
 | :-- | :-- |
 | **Historiography-driven development of tools and methods to use those tools in order to answer questions about change and continuity over time** | <ul><li>Situated in historiography<li>Focused on the gaps between historiographic need and existing design and method</ul> |
