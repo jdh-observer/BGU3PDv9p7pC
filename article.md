@@ -88,16 +88,42 @@ Introducing DBHR requires us first to consider Design-Based Research (DBR) witho
 <!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["This table lays out the principles of Design Based Research (DBR) in an educational-research setting."], "type": "image"}} tags=["narrative", "table-1"] -->
-| DBR Principle (adapted from <cite data-cite="32868/EMN6PG6E"></cite>) | Practical Educational Research Outcome |
-| :-- | :-- |
-| **Theory-driven development of educational design and methods** | <ul><li>Situated in a real-world educational contexts</li><li>Focused on the design and testing of a significant intervention</li></ul> |
-| **Applied iterative theory developed with practitioners** | <ul><li>Testing of design and methods shapes revision of theory; Revised theory offers insight into design and methods revisions</li><li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration</li></ul> |
-| **Should have impact in both research and practice** | <ul><li>Develops research-driven design theory for use by other researchers</li><li>Provides guidance for adoption by other practitioners</li></ul> |
+import pandas as pd
+from IPython.display import HTML
+
+# --- Define the columns ---
+columns = [
+    "DBR Principle (adapted from <cite data-cite=\"32868/EMN6PG6E\"></cite>)",
+    "Practical Educational Research Outcome"
+]
+
+# --- Define the data using proper <ul><li>…</li></ul> formatting ---
+data = [
+    [
+        "<strong>Theory-driven development of educational design and methods</strong>",
+        "<ul><li>Situated in real-world educational contexts</li><li>Focused on the design and testing of a significant intervention</li></ul>"
+    ],
+    [
+        "<strong>Applied iterative theory developed with practitioners</strong>",
+        "<ul><li>Testing of design and methods shapes revision of theory; revised theory offers insight into design and methods revisions</li><li>Emphasizes mixed-methods and interdisciplinary approaches and collaboration</li></ul>"
+    ],
+    [
+        "<strong>Should have impact in both research and practice</strong>",
+        "<ul><li>Develops research-driven design theory for use by other researchers</li><li>Provides guidance for adoption by other practitioners</li></ul>"
+    ]
+]
+
+# --- Create the DataFrame ---
+df_dbr = pd.DataFrame(data, columns=columns)
+
+# --- Display the DataFrame as HTML with proper formatting ---
+HTML(df_dbr.to_html(escape=False, index=False))
+
 <!-- #endregion -->
 
-<!-- #region tags=["narrative"] -->
+```python tags=["narrative"]
 Adapting DBR to DBHR starts with the acknowledgement that the article "the" in "the historical method" isn't monolithic. The historical method governs not a singular approach to history -- a single, well-articulated, unified "the" -- but a wide variety of praxis, theory, and individual approaches to the study of the past that puts archival source material in conversation with other historical experts. Questions of scale, audience, sourcing, and presentation all shape these conversations, whether we put those questions in a methods section or not. The work of a microhistorian is shaped by the scale of the research, while public historians begin their work with questions of audience. Cultural and social historians differentiate their subfield methods by asking different questions and emphasizing the use of divergent types of documentary evidence to answer those questions. Public historians have developed methods to evaluate format, audience movement and public interaction as part of exhibit design for both in-person and digital public-history exhibits (<cite data-cite="32868/ADV4GAQV"></cite>).
-<!-- #endregion -->
+```
 
 <!-- #region tags=["narrative"] -->
 In our classrooms, historians communicate the interplay between researcher, method, primary sources and secondary sources, which aligns our field with the social-science approach that says defined methods should be included in published scholarship (<cite data-cite="32868/Z2USYDSR"></cite>). In our research publications, on the other hand, historians tend away from explicit methods sections, where both qualitative and quantitative social scientists fully narrate the principles they used to gather data, and the hermeneutics and researcher positionality authors bring to their analysis (<cite data-cite="32868/I7VZY2PE"></cite>; <cite data-cite="32868/BNNGRRLH"></cite>). As a result, tool design in the context of a field that both relies on, and leans away from, documenting its own research methods can be something of a challenge even for those well-versed in the field (<cite data-cite="32868/4ES37PIM"></cite>).
