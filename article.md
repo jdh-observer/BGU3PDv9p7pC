@@ -93,7 +93,7 @@ from IPython.display import HTML
 
 # --- Define the columns ---
 columns = [
-    "DBR Principle (adapted from <cite data-cite=\"32868/EMN6PG6E\"></cite>)",
+    "DBR Principle (adapted from *Anderson & Shattuck 2012*)",
     "Practical Educational Research Outcome"
 ]
 
