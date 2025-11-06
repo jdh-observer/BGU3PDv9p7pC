@@ -14,8 +14,7 @@ jupyter:
 ---
 
 <!-- #region tags=["title"] -->
-# Designing Our Digital Past
-## Anchoring Digital-History Tool Development in the Historical Method Through Design-Based History Research
+# Designing Our Digital Past: Anchoring Digital-History Tool Development in the Historical Method Through Design-Based History Research
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
