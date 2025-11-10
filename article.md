@@ -92,7 +92,7 @@ from IPython.display import HTML
 
 # --- Define the columns ---
 columns = [
-    "DBR Principle (adapted from *Anderson & Shattuck 2012*)",
+    "DBR Principle (adapted from Anderson & Shattuck 2012)",
     "Practical Educational Research Outcome"
 ]
 
