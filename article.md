@@ -29,7 +29,7 @@ Department of Curriculum & Instruction, College of Education, University of Illi
 
 <!-- #region tags=["copyright"] -->
  [![cc-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-© Kalani Craig - Joshua Daniel. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+© Kalani Craig - Joshua Danish. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 <!-- #endregion -->
 
 [Net.Create](https://www.netcreate.org) is funded through the [EAGER program](https://www.nsf.gov/pubs/policydocs/pappguide/nsf09_1/gpg_2.jsp#IID2) at the [National Science Foundation](https://www.nsf.gov/) under award #[1848655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848655) and the iTest program, and through the [Lumina Foundation](https://www.luminafoundation.org) under award #(2104-1114262)[https://www.luminafoundation.org/grant/2104-1114262/]. Special thanks to the Center for Research on Learning and Technology and the RAPT Lab in IU Bloomington's School of Education; the team members at IU Bloomington's former Institute for Digital Arts and Humanities; the Department of History at IU Bloomington; and the developer team at Inquirium.
