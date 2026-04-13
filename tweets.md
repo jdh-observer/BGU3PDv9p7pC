@@ -1,9 +1,9 @@
 Post thread:
 
-1.So excited that the culmination of eight years of research is finally out there in public. New in the Journal of Digital History is @jdanish and @kalanicraig on a Design-Based History Research (DBHR) framework and Net.Create, a network analysis tool designed around the principles of historiographic thinking.
+1.So excited that eight years of research are now public in the Journal of Digital History: @jdanish and @kalanicraig present a Design‑Based History Research framework and Net.Create, a network analysis tool for digital history. https://journalofdigitalhistory.org/en/article/BGU3PDv9p7pC
 
-2.DBHR in Net.Create represents a significant methodological advancement, integrating theory and practice within digital history research. By prioritizing historiographic practices—evidence interpretation, citation preservation, and debate—DBHR helped @jdanish @kalanicraig identify critical gaps in existing digital history tools, using rigorous historical inquiry and structured data analysis to structure Net.Create’s feature set.
+2.DBHR in Net.Create advances digital‑history methods by integrating theory and practice. By centering evidence interpretation, citation preservation, and debate, it uses rigorous historical inquiry and structured data analysis to guide digital‑history tool design.
 
-3.Design-Based History Research (DBHR) is an iterative methodology from @jdanish @kalanicraig that turns theoretical insights to practical digital-history tool-design interventions. This framework has clear implications for the development of digital historical tools and highlights the importance of understanding the researcher’s role within digital history workflows.
+3.Design‑Based History Research (DBHR) is an iterative method from @jdanish @kalanicraig that turns theoretical insights into practical digital‑history tool‑design interventions, clarifying the researcher’s role in digital‑history workflows and informing future tool development.
 
-4.Net.Create's Design-Based History Research foundation allowed @jdanish @kalanicraig to demonstrate how tool design that aligns with historical argumentation can provide a methodological framework for tool development.
+4.Net.Create’s Design‑Based History Research foundation lets @jdanish @kalanicraig show how tool design aligned with historical argumentation can guide future digital‑history tools and support robust, debate‑ready scholarship. Read more: https://journalofdigitalhistory.org/en/article/BGU3PDv9p7pC
